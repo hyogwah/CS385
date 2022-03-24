@@ -1,0 +1,4 @@
+config/rbtree/cdt.launchMode=run
+config/rbtree/cdt.toolChain.id=gcc-x86_64-/usr/bin/gcc
+config/rbtree/cdt.toolChain.type=org.eclipse.cdt.build.gcc
+eclipse.preferences.version=1
